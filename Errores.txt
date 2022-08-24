@@ -1,0 +1,21 @@
+2022-08-23 15:51:06.717  INFO 3920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-08-23 15:51:06.731  INFO 3920 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-23 15:51:06.732  INFO 3920 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-23 15:51:06.832  INFO 3920 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-23 15:51:06.833  INFO 3920 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1112 ms
+2022-08-23 15:51:07.198  INFO 3920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-23 15:51:07.225 ERROR 3920 --- [main] c.e.b.Bs5Ejercicio6Application           : hola desde mi logger error
+2022-08-23 15:51:54.360  INFO 17200 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-08-23 15:51:54.370  INFO 17200 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-23 15:51:54.371  INFO 17200 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-23 15:51:54.465  INFO 17200 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-23 15:51:54.466  INFO 17200 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1062 ms
+2022-08-23 15:51:54.848  INFO 17200 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-23 15:51:54.859 ERROR 17200 --- [main] c.e.b.Bs5Ejercicio6Application           : hola desde mi logger error
+2022-08-23 15:56:56.495  INFO 15604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-08-23 15:56:56.505  INFO 15604 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-23 15:56:56.506  INFO 15604 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-23 15:56:56.665  INFO 15604 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-23 15:56:56.665  INFO 15604 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1123 ms
+2022-08-23 15:56:57.061  INFO 15604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-23 15:56:57.075 ERROR 15604 --- [main] c.e.b.Bs5Ejercicio6Application           : hola desde mi logger error
